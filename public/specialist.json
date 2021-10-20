@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Mila",
+        
+        "specialitin": "Orthodontics",
+       
+        "img": "https://media.gettyimages.com/photos/confident-doctor-standing-arms-crossed-picture-id493216507?s=2048x2048"
+    },
+    {
+        "id": 2,
+        "name": "Tony",
+        
+        "specialitin": "Oral and Maxillofacial Surgon",
+        "img": "https://media.gettyimages.com/photos/doctor-in-hospital-picture-id523465988?s=2048x2048"
+    },
+    {
+        "id": 3,
+        "name": "Roky",
+        "specialitin": "Prosthodontist",
+        "img": "https://media.gettyimages.com/photos/doctor-picture-id519921016?s=2048x2048"
+    }
+    
+]

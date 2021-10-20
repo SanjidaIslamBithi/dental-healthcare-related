@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "Complete exams, x-rays, and dental cleanings",
+        "price": "300",
+        "description": "There are two types of x-rays; therapeutic and diagnostic. Therapeutic x-rays are the type of x-ray you'll usually get during a standard dental visit that includes an oral exam and a teeth cleaning.",
+        "img": "https://i.ibb.co/j40FjxJ/X-ray-of-teeth.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Fillings, root canals, and extractions",
+        "price": "100",
+        "description": "Root fillings fill the tube from the part of the tooth you can see to the end of your root underneath your gum. Extraction is the complete removal of a tooth from your mouth. ",
+        "img": "https://i.ibb.co/ZK9t6yx/Woman-patient-at-dentist.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cosmetic dentistry, such as whitening, porcelain and composite veneers",
+        "price": "150",
+        "description": "Porcelain veneers are stronger than composite veneers, so they'll work better if you're looking to improve the appearance of several teeth.",
+        "img": "https://i.ibb.co/mhRxGYL/Medicine-Beautiful-doctor-in-the-hospital.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Implants - placement and restoration",
+        "price": "180",
+        "description": "Dental implant restoration occurs once the implant posts have fully healed together with the jaw bone. ",
+        "img": "https://i.ibb.co/CPWV1Wb/Dental-prosthetics-realistic-vector-illustration-with-healthy-teeth-and-denture-crown-implanted-with.jpg"
+    }
+    
+]
